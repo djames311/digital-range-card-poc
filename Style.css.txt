@@ -1,0 +1,23 @@
+#panel {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 330px;
+  background: rgba(15,15,15,0.88);
+  color: white;
+  padding: 12px;
+  font-family: Arial;
+  z-index: 1000;
+}
+
+#panel h3 {
+  margin: 0 0 6px 0;
+}
+
+#panel input[type="number"] {
+  width: 60px;
+}
+
+#panel button {
+  margin-left: 4px;
+}
